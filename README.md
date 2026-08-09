@@ -86,7 +86,7 @@ Submit within 14 days. Review may take up to one month. Provide a public GitHub 
 
 
 
-Evaluation Criteria
+
 
 Attention to detail, frontend skills, backend skills, component reusability, architecture, code quality, responsiveness, product thinking, communication, and maintainability.
 
