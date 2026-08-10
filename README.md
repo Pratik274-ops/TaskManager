@@ -82,7 +82,7 @@ Submit either a document with screenshots explaining the workflow in your own wo
 
 Submission Guidelines
 
-Submit within 14 days. Review may take up to one month. Provide a public GitHub repository with multiple small, meaningful commits, a working deployed live URL (non-working URLs will be rejected), a README, and your Part 2 submission. Keep the repository public and deployment accessible for at least 45 days after submission.
+Submit within 14 days. Review may take up to one month. Provide a public GitHub repository with multiple small, meaningful commits, a working deployed live URL (non-working URLs will be rejected), a README, and your Part 2 submission. Keep the repository public and deployment 
 
 
 
