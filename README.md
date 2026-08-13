@@ -76,7 +76,7 @@ Explore the AbleSpace Take Data screen from the Caseload tab. 
 
 
 
-Submit either a document with screenshots explaining the workflow in your own words or a video walkthrough. Share any UX/UI or functionality improvements you identify.
+Submit either a document with screenshots explaining the workflow in your own words or a video walkthrough.  any UX/UI or functionality improvements you identify.
 
 
 
