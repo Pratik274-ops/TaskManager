@@ -1,6 +1,5 @@
 # TaskFlow Mastery
 
-Full Stack Developer (Fresher) – Technical Assessment
 
 
 
