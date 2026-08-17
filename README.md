@@ -5,7 +5,6 @@
 
 
 
-This assessment evaluates your frontend and backend engineering skills, attention to detail,
 
 product thinking, communication, and overall software engineering practices.
 
