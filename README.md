@@ -6,7 +6,7 @@
 
 
 
-product thinking, communication, and overall software engineering practices.
+product thinking, communication, and overall software  practices.
 
 
 
